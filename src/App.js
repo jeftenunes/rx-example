@@ -5,8 +5,8 @@ import logo from './logo.svg';
 function App() {
   return (
     <div className="App">
-      {/* <DblClickButton labelText='Click me!'/>
-      <StreamSubscribe /> */}
+      <DblClickButton labelText='Click me!'/>
+      {/* <StreamSubscribe /> */} 
     </div>
   );
 }
